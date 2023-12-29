@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently focusing on **building a strong foundation in computer science**
 
-- 🖥️ I’m currently engaged as a CTF player at **Federal Bonk Investigations**
+- 🖥️ I’m currently engaged as a CTF player at **<a href="https://www.facebook.com/fbictf">Federal Bonk Investigations</a>**
 
 - 💬 Ask me about **anything..**
 
