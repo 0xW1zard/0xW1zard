@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xw1zard&label=Profile%20views&color=0e75b6&style=flat" alt="0xw1zard" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xw1zard" alt="0xw1zard" /></a> </p>
-
 - 🔭 I’m currently focusing on **building a strong foundation in computer science**
 
 - 🖥️ I’m currently engaged as a CTF player at **Federal Bonk Investigations**
