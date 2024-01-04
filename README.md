@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himel Ahmed</h1>
 <h3 align="center">I'm a passionate learner in the field of Computer Science and Technology, currently pursuing my diploma at Munshiganj Polytechnic Institute. My primary interest lies in CyberSecurity, and I'm enthusiastic about open source.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://blackshirts.info/collection/im-in-gif-hacker">
+<img align="right" alt="Coding" width="370" src="https://blackshirts.info/collection/im-in-gif-hacker">
 
 - 🔭 I’m currently focusing on **building a strong foundation in computer science**
 
