@@ -27,3 +27,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xw1zard&" alt="0xw1zard" /></p>
 
+<h2>🔢 Visitor Count</h2>
+<div align="center">
+<br>
+<img align="center" src="https://profile-counter.glitch.me/{0xw1zard}/count.svg" />
+<br></div>
+<h2></h2>
+<h2>⭐ Badges</h2>
+
