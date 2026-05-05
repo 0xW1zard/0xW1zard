@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi 👋, I'm Himel Ahmed</h1>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=CyberSecurity+Enthusiast;Full-Stack+Developer;CTF+Player+@+FBI;Open+Source+Advocate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=CyberSecurity+Enthusiast;Developer;CTF+Player+@+FBI;Open+Source+Advocate" alt="Typing SVG" />
 
   <br/>
   <img src="https://octodex.github.com/images/privateinvestocat.jpg" width="220" alt="Investocat" />
@@ -37,15 +37,4 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xw1zard&theme=dark&hide_border=true" alt="0xw1zard GitHub Streak" />
-</p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xw1zard&show_icons=true&theme=dark&hide_border=true" alt="Himel's Stats" height="155" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xw1zard&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="155" />
-</div>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=0xw1zard&label=Profile%20Views&color=0078d7&style=flat-square" alt="0xw1zard" />
 </p>
