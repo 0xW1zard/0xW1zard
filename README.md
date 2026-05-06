@@ -29,12 +29,12 @@
 | **📜 Scripting** | `JavaScript (ES6+)`, `Python`, `Bash` |
 | **🌐 Web Basics** | `HTML5`, `CSS3` |
 | **⚙️ Core & OS** | `Linux (Kali/Arch/Debian)`, `Git & GitHub` |
-| **🛡️ CyberSecurity** | `------` |
+| **🛡️ CyberSecurity** | `Classified XD` |
 
 ---
 
 ### 📊 Activity Report
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xw1zard&theme=dark&hide_border=true" alt="0xw1zard GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-weld-zeta.vercel.app?user=0xW1zard&theme=soft-green&border_radius=5&card_width=500&fire=D0FF63" alt="GitHub Streak" /></a>
 </p>
