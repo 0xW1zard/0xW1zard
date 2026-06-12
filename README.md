@@ -36,8 +36,6 @@
 ### 📊 Activity Report
 
 <p align="center">
+  <a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xw1zard&show_icons=true&locale=en&layout=compact" alt="0xw1zard" /></a>
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-weld-zeta.vercel.app?user=0xW1zard&theme=soft-green&border_radius=5&card_width=500&fire=D0FF63" alt="GitHub Streak" /></a>
-  <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xw1zard&show_icons=true&locale=en&layout=compact" alt="0xw1zard" /></a>
-  
-
 </p>
